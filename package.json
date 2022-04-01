@@ -1,6 +1,6 @@
 {
   "name": "guitar-chord",
-  "version": "0.0.4",
+  "version": "0.0.5",
   "description": "<guitar-chord> Web-component or svelte component",
   "svelte": "src/index.js",
   "module": "dist/build/guitar-chord.mjs",
@@ -30,8 +30,7 @@
     "svelte": "^3.37.0"
   },
   "dependencies": {
-    "vexchords": "^1.2.0",
-    "@svgdotjs/svg.js": "^3.1.2"
+    "vexchords": "^1.2.0"
   },
   "files": [
     "src",
